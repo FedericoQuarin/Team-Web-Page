@@ -29,7 +29,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -39,6 +38,7 @@
 ![Movile browser page](https://user-images.githubusercontent.com/54511211/233872059-5854b274-85a9-4d8b-87d1-b51fa05b26d2.png)
 
 In this project I solved a challenge consisting in making a responsive web page testing my skills in HTML/CSS. The page shows a creative team's presentation webpage, showing its members, roles and a picture of each one. 
+
 It was my first atempt to do a web page and I really enjoyed the process. With it I really managed to understand the foundaments of flex tool and responsive design, what I think will be really useful in my frontend skills.
 
 
@@ -50,5 +50,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/FedericoQuarin)
-- LinkedIn [@your-linkedin](https://www.linkedin.com/in/federico-quarin-264b90198/)
+- GitHub [FedericoQuarin](https://github.com/FedericoQuarin)
+- LinkedIn [FedericoQuarin](https://www.linkedin.com/in/federico-quarin-264b90198/)
